@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+body{
+    background-image: url(./img/jonathan-roger-fPaCAQKkRqY-unsplash.jpg);
+    font-family: 'Noto Sans', sans-serif;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 95vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#time{
+ font-size: 18rem;
+}
+
+
+h1{
+    font-size: 7rem;
+}
+
+h2{
+    font-size: 4rem;
+}
+
+
+.container{
+
+   
+
+}
